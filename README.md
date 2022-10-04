@@ -1,4 +1,4 @@
-### My first project with Rocketseat Learning<h3>
+### My second project with Rocketseat Learning<h3>
 <br/>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/114286800/193930158-b5c451e1-5da5-41b4-acf7-c1874a26f5c4.png" width="900px" />
